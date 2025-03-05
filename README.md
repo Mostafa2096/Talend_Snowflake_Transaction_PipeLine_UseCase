@@ -13,6 +13,7 @@ This repository contains a Talend ETL pipeline designed to process transaction d
 3. [Folder Structure](#folder-structure)
 4. [How to Run](#how-to-run)
 5. [Screenshots](#screenshots)
+6. [Dimensional Model](#Dimensional_Model)
 
 ---
 
@@ -147,6 +148,11 @@ Below are the screenshots of each job for reference:
 
 5. **MasterJob**  
 ![MasterJobJob](https://github.com/user-attachments/assets/b9a799b4-52c3-4364-a6fc-30fd9e953671)
+
+---
+
+## Dimensional Model
+![Dimensional Model](https://github.com/user-attachments/assets/cae342bf-fa9e-4c61-a880-811e81878b12)
 
 ---
 
