@@ -114,11 +114,7 @@ This is an orchestration job that runs `DimBranchJob`, `DimSalesAgentJob`, and `
 project-folder/
 ├── input/ # Folder for incoming CSV files  ├── done/ # Folder for processed files (inside input folder).
 ├── screenshots/ # Screenshots of Talend jobs.
-├── DimDateJob/ # Talend job for DimDate.
-├── DimBranchJob/ # Talend job for DimBranch.
-├── DimSalesAgentJob/ # Talend job for DimSalesAgent.
-├── TransactionJob/ # Talend job for Transactions.
-├── MasterJob/ # Talend orchestration job.
+├── UseCase Exported Zip File/ # Talend whole use case to be imported 
 └── README.md # This file.
 
 
@@ -129,7 +125,7 @@ project-folder/
 1. Place the daily CSV files (`transactions`, `salesagents`, and `branches`) in the `input` folder.
 2. Open Talend Studio and import the jobs.
 3. Run the `MasterJob` to execute the entire pipeline.
-4. Check the `done` folder for processed files and the `logs` folder for execution logs.
+4. Check the `done` folder for processed files .
 
 ---
 
