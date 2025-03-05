@@ -112,14 +112,14 @@ This is an orchestration job that runs `DimBranchJob`, `DimSalesAgentJob`, and `
 ## Folder Structure
 
 project-folder/
-├── input/ # Folder for incoming CSV files  ├── done/ # Folder for processed files (inside input folder)
-├── screenshots/ # Screenshots of Talend jobs
-├── DimDateJob/ # Talend job for DimDate
-├── DimBranchJob/ # Talend job for DimBranch
-├── DimSalesAgentJob/ # Talend job for DimSalesAgent
-├── TransactionJob/ # Talend job for Transactions
-├── MasterJob/ # Talend orchestration job
-└── README.md # This file
+├── input/ # Folder for incoming CSV files  ├── done/ # Folder for processed files (inside input folder).
+├── screenshots/ # Screenshots of Talend jobs.
+├── DimDateJob/ # Talend job for DimDate.
+├── DimBranchJob/ # Talend job for DimBranch.
+├── DimSalesAgentJob/ # Talend job for DimSalesAgent.
+├── TransactionJob/ # Talend job for Transactions.
+├── MasterJob/ # Talend orchestration job.
+└── README.md # This file.
 
 
 ---
